@@ -1,2 +1,8 @@
-# pirateai
-For this assignment, I built a Deep Q-Learning model that trains an agent to navigate around a maze to find treasure
+# Treasure Hunt Game Deep Q-learning model
+For this assignment, I built a Deep Q-Learning model that trains an agent to navigate around a maze to find treasure.
+
+Here, I was given the code in the `TreasureMaze.py` file, represents the maze environment the agent is in, and the `GameExperience.py` file, which stores the episodes for agent learning. I was also given the helper functions for visualization, game simulation, and the skeleton for the `build_model` neural network function. On the other hand, I created the code for the deep Q-learning implementation to help the agent navigate the maze and decide whether it needed to exploit or explore, track rewards, and train the network through backpropagation to achieve a win rate of 100%. 
+
+In the field of computer science, and specially in artificial intelligence, scientists use similar algorithms and systems to solve complex problems. Building this reinforcement learning model shows how computer science can help with pathfinding and decision making solutions (imagine this applied to something like self-driving vehicles). By creating this model, I showed proficiency in defining states, actions, and rewards in a neural network. 
+
+When working with AI models in my future, I have a ethical obligation as an engineer to make sure that these systems behave safely and fairly without the influence of bias. To do this, I can be transaprent with the users and developers, mitigate biases by providing diverse training data, and prioritizing the user's safety when developing intelligent systems in real-world scenarios (again, think of self-driving vehicles).
